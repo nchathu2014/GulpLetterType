@@ -1,5 +1,4 @@
 'use strict';
-
 const PLUGIN_NAME = 'gulp-letter-type';
 var through = require('through2'),
     gutil = require('gulp-util'),
