@@ -1,5 +1,5 @@
 {
-  "name": "-dev",
+  "name": "gulp-letter-type",
   "version": "1.0.0",
   "description": "Gulp Custom plugin for convert the text to uppercase or lowercase",
   "main": "index.js",
